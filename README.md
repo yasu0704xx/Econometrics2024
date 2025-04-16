@@ -10,4 +10,5 @@
 - 主要な参考文献は「References.pdf」というファイルに記録してあります．
   - しかし，すべてを網羅しているわけではないので，厳密には，テキストや論文の参考文献リストを参照してください．
 - 松田さん（University of Mannheim）のご厚意で，英文校正をしていただきました．ありがとうございます．
-- なにかあれば **yasu0704xx at gmail.com** まで．
+- Contact: yasu0704xx [at] gmail.com
+- Website: https://yasu0704xx.github.io
