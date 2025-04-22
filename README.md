@@ -5,8 +5,8 @@
   - 科目ナンバリング：G-ECON31 6A503 SJ43（計量経済学1），G-ECON31 6A504 SJ43（計量経済学2）．
   - 教科書：Li, Q. and J. S. Racine. (2007) *Nonparametric Econometrics: Theory and Practice,* Princeton University Press.
   - 2024年度のゼミでは、11章まで輪読しました．
-  - 2025年1月現在，教科書の2章後半，5章，8章，10章，11章に対応する発表資料が保管されています．
-  - 7章，9章の資料は，別の参加者（匿名希望Monaちゃんさん）が作ってくださったものです．．
+  - 2025年1月現在，教科書の7，8, 9, 10, 11章に対応する発表資料が保管されています．
+  - 7章，9章の資料は，別の参加者（匿名希望Monaちゃんさん）が作ってくださったものです．
 - 松田さん（University of Mannheim）のご厚意で，英文校正をしていただきました．ありがとうございます．
 - Contact: yasu0704xx [at] gmail.com
 - Website: https://yasu0704xx.github.io
